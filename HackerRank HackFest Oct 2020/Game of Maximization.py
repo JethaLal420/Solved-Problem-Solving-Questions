@@ -20,7 +20,7 @@ def maximumStones(arr):
             sum1 = sum1 + arr[i]
         if i+1 < len(arr):
             sum2 = sum2 + arr[i+1]
-        i =+ 2
+#         i =+ 2            Doesn't Work. Don't use this type of increment.
         
     if sum1 > sum2:
         return sum2*2
