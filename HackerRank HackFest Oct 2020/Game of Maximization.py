@@ -1,4 +1,3 @@
-#!/bin/python3
 
 import math
 import os
@@ -29,7 +28,7 @@ def maximumStones(arr):
         return sum1*2
  
 if __name__ == '__main__':
-    fptr = open(os.environ['OUTPUT_PATH'], 'w')
+#     fptr = open(os.environ['OUTPUT_PATH'], 'w')
 
     n = int(input().strip())
 
@@ -37,6 +36,8 @@ if __name__ == '__main__':
 
     result = maximumStones(arr)
 
-    fptr.write(str(result) + '\n')
+#     fptr.write(str(result) + '\n')
 
-    fptr.close()
+#     fptr.close()
+
+    print(result)
