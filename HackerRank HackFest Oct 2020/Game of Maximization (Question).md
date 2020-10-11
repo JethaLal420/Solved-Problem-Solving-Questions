@@ -53,4 +53,3 @@ __Sample Output 1__:
 __Explanation 1__:
 
 Let x = [0,1,1]. Hence x<sub>1</sub> + x<sub>3</sub> = x<sub>2</sub>, and the total number of stones picked is 2.
-    
