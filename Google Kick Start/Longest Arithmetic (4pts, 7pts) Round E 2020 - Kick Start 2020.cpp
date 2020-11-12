@@ -1,4 +1,4 @@
-## Kick Start Round E 2020
+// Kick Start Round E 2020 (23 Aug 2020)
 
 
 // Problem:
